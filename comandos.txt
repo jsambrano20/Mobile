@@ -1,0 +1,23 @@
+npx react-native start
+npx react-native run-android
+
+react-native init PROJETO QUE VAI CRIAR
+cd pasta que criou
+ (VS CODE)
+emulator -avd Nexus_5X_API_26
+npx react-native run-android
+
+
+Ctrl + ALt + N =  Executa projeto no node fora do projeto
+
+npm -g install react-native
+npm -g install socks
+npm -g install react-native-cli
+
+
+git init
+git remote add origin https://github.com/usuario/repositorio.git
+git branch -M main
+git add .
+git commit -m "Primeira Edit"
+git push -u origin main

@@ -1,0 +1,35 @@
+-------INICIAR DEV COM IMPORTS---------------
+import React from 'react'
+import {Text} from 'react-native'
+import Estilo from './estilo'
+
+----------------TIPOS DE CRIAR EXPORTS------------------------
+/*const App = function () {
+    ( **const jsx =<Text>Primeiro Componente Aula #1</Text> 
+        *return jsx)
+   
+    return <Text>Primeiro Componente Aula #1</Text>
+}
+export default App
+*/
+
+export default () => <Text>Primeiro Componente Aula #2</Text>
+
+/*
+Se quiser deixar o default com um nome e declarar depois pode ser
+realizado 
+
+function Comp()
+{
+    return <Text>Comp #Oficial</Text>
+ 
+}
+export default Comp
+*/
+
+
+export default () => <Text style={Estilo.fontG}>Primeiro</Text>
+
+
+----------CONSOLES VISUAIS--------------------  
+console.warn('texto')
