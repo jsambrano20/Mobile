@@ -2,11 +2,11 @@
  
   - Base sólida de Javascript com os novos recursos da linguagem
   
-   :heavy_check_mark: Fundamentos e ciclo de vida do React
+   - Fundamentos e ciclo de vida do React
  
-   :heavy_check_mark: Entender como estilizar sua aplicação com Flexbox
+   - Entender como estilizar sua aplicação com Flexbox
  
-  -  Criar projetos de aplicações reais, com layouts atrativos
+   - Criar projetos de aplicações reais, com layouts atrativos
   
    - Criar rotas, eventos de swipe, trabalhar com imagens, câmeras e diversas outras funcionalidades
    
